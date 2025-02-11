@@ -1,0 +1,44 @@
+# Файлы виртуального окружения
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+Pipfile.lock
+
+# Папки виртуального окружения
+env/
+venv/
+.venv/
+pipenv/
+
+# Файлы настройки PyCharm
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Файлы с данными, которые не нужно отслеживать
+*.xlsx
+*.csv
+*.log
+*.db
+
+names.docx
+
+*.docx
+
+# Папка с фотографиями (если не хочешь загружать фото в Git)
+photos/
+
+# Игнорировать все изображения в проекте
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+*.webp
+*.heic
+*.ico
